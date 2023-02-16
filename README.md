@@ -14,15 +14,13 @@ gradle build
 ### Port
 8080
 
-### Open Api Documentation (Doesn't work)
-Wanted to provide open api docs, but Spring Doc OpenApi setup is broken for Spring Boot 3. Couldn't find solution in reasonable time.
+### Open Api Documentation
 ```
 /v3/api-docs (json)
 /v3/api-docs.yaml (yaml)
 ```
 
-### SwaggerUI endpoint (Doesn't work)
-Wanted to Swagger ui, but Spring Doc OpenApi setup is broken for Spring Boot 3. Couldn't find solution in reasonable time.
+### SwaggerUI endpoint
 ```
 /swagger-ui.html
 ```
